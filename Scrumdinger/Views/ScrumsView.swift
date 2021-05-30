@@ -20,6 +20,7 @@ struct ScrumsView: View {
                 .navigationBarItems(trailing: Button(action: {}) {
                     Image(systemName: "plus")
                 })
+                .listRowBackground(scrum.color)
             }
         }
     }
