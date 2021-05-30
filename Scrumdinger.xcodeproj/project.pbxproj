@@ -14,6 +14,7 @@
 		3A15605B2664171200FCD9CC /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A15605A2664171200FCD9CC /* DailyScrum.swift */; };
 		3A15605E266417B100FCD9CC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A15605D266417B100FCD9CC /* CardView.swift */; };
 		3A1560612664199D00FCD9CC /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1560602664199D00FCD9CC /* Color.swift */; };
+		3A15606526641C1300FCD9CC /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A15606426641C1300FCD9CC /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3A15605A2664171200FCD9CC /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		3A15605D266417B100FCD9CC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		3A1560602664199D00FCD9CC /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		3A15606426641C1300FCD9CC /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				3A156056266413DF00FCD9CC /* MeetingView.swift */,
 				3A15605D266417B100FCD9CC /* CardView.swift */,
+				3A15606426641C1300FCD9CC /* ScrumsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A156057266413DF00FCD9CC /* MeetingView.swift in Sources */,
+				3A15606526641C1300FCD9CC /* ScrumsView.swift in Sources */,
 				3A15605B2664171200FCD9CC /* DailyScrum.swift in Sources */,
 				3A15605E266417B100FCD9CC /* CardView.swift in Sources */,
 				3A1560612664199D00FCD9CC /* Color.swift in Sources */,
